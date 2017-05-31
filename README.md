@@ -1,5 +1,7 @@
 # jetty-template
 
+For Jetty 9.4
+
 # Create new jetty.base
 
 ./createJetty.sh <directory>
